@@ -1,6 +1,7 @@
 # SE4AI_group_6
 To run the extension of comparing smart vs dumb strategy put all files under ezr directory and Run \
-```python extend_smartVSdumb.py low|high```
+```python extend_smartVSdumb.py low|high``` \
+\
 **Conclusion:**
 
 -   The **smart strategy performs better than dumb strategy** in most datasets. It outperforms the dumb strategy in 9 out of 15  low dimension (xcols<=6) datasets.
