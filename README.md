@@ -21,3 +21,4 @@ Here, smart medians are consistently lower than dumb medians .Hence showing smar
 -   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-2z7bx5xLN3Vqy6Ek9djot3VsI2hRfxO5mxehnckrUxHI3sQB2Tya91TSbFXHWT-hNducZsZs6UbxIMfwZ__fhXLgBL4dB-N3abaD-7lf2jjHoc9HK5Eu5tP3Rl7-onVT4vqY4mDc0mS0Ui62wHScEEzn?key=NrRNAj4z1NT8uDWfF8crnQ)
 
 -   The Smart Strategy medians are lower than dumb strategy ones in most of the datasets, as the chebyshev distances are sorted of these strategies . The lower median would indicate more number of shorter distances .
+-   Therefore, based on the above observation as evidences, we confirm that the hypothesis JJR1 doesn't hold true. JJR2, on the other hand, is valid and contradicts JJR1 by providing results showing that the smart strategy works well for both higher and lower dimensionality datasets.
