@@ -15,3 +15,13 @@
 
 Test cases 
 ![image](https://github.com/user-attachments/assets/4e51f72e-3c92-4caf-949e-6457dd691bb7)
+
+- Test Case #1 - Test if the dumb list is the right length (i.e. N). They should be 20. 
+
+- Test Case #2 - Test if the smart list is the right length (i.e. N). They should be 20. 
+
+- Test Case #3 - Checks if the first value given by Chebyshev is really the best. Did this for a small .csv file given in data/test_data/test_extend_file.csv.
+
+- Test Case #4 - Test if we run the experimental treatment 20 times which is the length of the dumb and smart strategy.
+  
+- Test Case #5 - Test if the shuffle() method is really changin the order the data. Needed to use .copy() otherwise both DATAs would change. 
